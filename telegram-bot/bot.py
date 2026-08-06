@@ -11,7 +11,7 @@ ADMIN_ID = 8733257796  # Твой Telegram ID (узнай через @userinfobo
 
 # Список рабочих ключей (можешь добавлять свои)
 VALID_KEYS = [
-    "BR-2026-HACK-001",
+    "BR2026HACK001",
     "FREE-KEY-2026",
     "MY-SUPER-KEY-12"
 ]
